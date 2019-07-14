@@ -1,0 +1,40 @@
+{
+  "name": "unstack-express-ssr",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "peerDependencies": {
+    "express": "^4.16.3"
+  },
+  "dependencies": {
+    "apollo-cache-inmemory": "^1.2.6",
+    "folder-hash": "^2.1.1",
+    "apollo-client": "^2.3.7",
+    "apollo-link-http": "^1.5.4",
+    "apollo-link-batch-http": "^1.2.11",
+    "apollo-link-error": "*",
+    "express": "^4.16.3",
+    "graphql": "^0.13.2",
+    "http-proxy": "^1.17.0",
+    "react-apollo": "^2.1.9",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "graphql-tag": "^2.9.2",
+    "styled-components": "^3.3.3",
+    "emotion-server": "^9.2.11",
+    "emotion": "^9.2.11",
+    "radium": "^0.22.0",
+    "query-string": "6.4.2",
+    "react-safety-helmet": "^6.3.0",
+    "match-media-mock": "^0.1.1",
+    "core-js": "2.6.5"
+  }
+}

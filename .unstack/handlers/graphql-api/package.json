@@ -1,0 +1,28 @@
+{
+  "name": "unstack-graphql-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-express": "2.4.8",
+    "express": "^4.16.4",
+    "graphql": "^0.13.2",
+    "graphql-depth-limit": "^1.1.0",
+    "graphql-import": "0.7.1",
+    "graphql-input-number": "0.0.10",
+    "graphql-middleware": "^3.0.2",
+    "graphql-playground-middleware-express": "^1.7.12",
+    "graphql-shield": "^5.3.0",
+    "pg": "^7.9.0",
+    "postgraphile": "^4.3.3",
+    "postgraphile-apollo-server": "^0.1.0",
+    "prisma-binding": "^2.1.4",
+    "write-yaml": "^1.0.0"
+  }
+}

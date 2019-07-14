@@ -1,0 +1,39 @@
+{
+  "name": "special-crm",
+  "version": "0.0.1",
+  "description": "The monorepo for the Special CRM platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "unstack": "^0.0.15",
+    "unstack-env-context": "^0.0.1"
+  },
+  "devDependencies": {
+    "apollo-cache-inmemory": "^1.6.2",
+    "apollo-client": "^2.6.3",
+    "apollo-link-batch-http": "^1.2.12",
+    "apollo-link-error": "^1.1.11",
+    "apollo-link-http": "^1.5.15",
+    "core-js": "^2.6.5",
+    "emotion": "^9.2.12",
+    "emotion-server": "^9.2.12",
+    "express": "^4.17.1",
+    "folder-hash": "^2.1.2",
+    "graphql": "^0.13.2",
+    "graphql-tag": "^2.10.1",
+    "http-proxy": "^1.17.0",
+    "match-media-mock": "^0.1.1",
+    "query-string": "^6.4.2",
+    "radium": "^0.22.1",
+    "react": "^16.8.6",
+    "react-apollo": "^2.5.8",
+    "react-dom": "^16.8.6",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-safety-helmet": "^6.3.0",
+    "styled-components": "^3.4.10",
+    "write-yaml": "^1.0.0"
+  }
+}
