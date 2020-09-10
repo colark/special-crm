@@ -23,7 +23,7 @@
     "folder-hash": "^2.1.2",
     "graphql": "^0.13.2",
     "graphql-tag": "^2.10.1",
-    "http-proxy": "^1.17.0",
+    "http-proxy": "^1.18.1",
     "match-media-mock": "^0.1.1",
     "query-string": "^6.4.2",
     "radium": "^0.22.1",
